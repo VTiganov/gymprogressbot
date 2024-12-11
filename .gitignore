@@ -1,5 +1,7 @@
 venv
-
+vscode
 telegramtoken.jsonc
 
 *.minder
+
+.pytest_cache
