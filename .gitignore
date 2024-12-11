@@ -1,5 +1,5 @@
 venv
 
-config.jsonc
+telegramtoken.jsonc
 
 *.minder
