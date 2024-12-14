@@ -1,1 +1,1 @@
-![Mind Map](images/Main-Idea.png)
+![Mind Map](images/idea.png)
