@@ -1,5 +1,7 @@
 venv
-
-config.jsonc
+vscode
+config/token.jsonc
 
 *.minder
+
+.pytest_cache
