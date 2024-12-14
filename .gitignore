@@ -1,6 +1,6 @@
 venv
 vscode
-telegramtoken.jsonc
+config/token.jsonc
 
 *.minder
 
